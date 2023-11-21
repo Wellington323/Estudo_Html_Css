@@ -1,0 +1,67 @@
+
+body{
+    background-color: black; 
+}
+
+h1{
+    color: white;
+}
+h1{
+    color: white;
+}
+label{
+    color:white;
+}
+div{background-color: brown;
+    color: white; 
+    width: 90px;
+    height: 20px;
+}
+ul{
+    color: white;
+}
+#Elemento-01{
+    background-color: rgb(44, 91, 90);
+    width: 240px;
+    height: 40px; 
+    margin-top: 20px;
+    margin-left: 25px;
+    margin-right: 3px;  
+}
+#Elemento-02{
+    background-color: rgb(255, 247, 0);
+    width: 200px;
+    height: 40px; 
+    margin: 30px 10px 40px; 
+}
+#Elemento-03{
+   background-color: coral; 
+   height: 40px;
+   margin: inherit;
+}
+#Elemento-04{
+    background-color: rgb(144, 80, 255); 
+    height: 40px;
+    margin: auto;
+ }
+ #Elemento-05{
+    background-color: darkgrey;
+    height: 50px;
+    padding: 20px 30px;
+ }
+ #Elemento-06{
+    background-color: greenyellow; 
+    margin: 30px;
+    padding: 20px;
+    padding: left 40px; ;
+    padding-top: 0px; 
+ }
+ #Elemento-07{
+    background-color: greenyellow;
+   box-sizing: border-box;
+ }
+ #Elemento-08{
+    border: 5px solid blue;
+    
+ }
+ 
